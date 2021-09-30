@@ -1,4 +1,4 @@
-Amateur PS player
+Amateur PS coder
 
 <!---
 BamgoeSN/BamgoeSN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
