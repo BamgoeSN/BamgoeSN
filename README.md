@@ -1,5 +1,9 @@
 <div align="center">
-  <a href="https://acmicpc.net/user/bamgoesn"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=bamgoesn"></a>
+  <img src="https://badges.joonhyung.xyz/atcoder/bamgoesn.svg"> <img src="https://badges.joonhyung.xyz/codeforces/bamgoesn.svg">
+</div>
+
+<div align="center">
+  <a href="https://acmicpc.net/user/bamgoesn"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=bamgoesn"></a>
 </div>
 
 <!---
